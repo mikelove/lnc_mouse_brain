@@ -1,1 +1,1 @@
-x <- read.csv("SraRunTable.txt", stringsAsFactors=FALSE)
+tab <- read.csv("SraRunTable.txt", stringsAsFactors=FALSE)
