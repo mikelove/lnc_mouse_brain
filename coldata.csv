@@ -1,0 +1,13 @@
+run,condition,litter,name0,name,time
+SRR1584565,WT,linc-Sox2_L43-1,linc-Sox2,Peril_RNA-seq_WT_E14.5,E14.5
+SRR1584566,WT,linc-Sox2_L43-1,linc-Sox2,Peril_RNA-seq_WT_E14.5,E14.5
+SRR1584567,WT,linc-Sox2_L43-3,linc-Sox2,Peril_RNA-seq_WT_E14.5,E14.5
+SRR1584568,WT,linc-Sox2_L43-3,linc-Sox2,Peril_RNA-seq_WT_E14.5,E14.5
+SRR1584571,WT,linc-Sox2_L43-8,linc-Sox2,Peril_RNA-seq_WT_E14.5,E14.5
+SRR1584572,WT,linc-Sox2_L43-8,linc-Sox2,Peril_RNA-seq_WT_E14.5,E14.5
+SRR1584569,KO,linc-Sox2_L43-4,linc-Sox2,Peril_RNA-seq_KO_E14.5,E14.5
+SRR1584570,KO,linc-Sox2_L43-4,linc-Sox2,Peril_RNA-seq_KO_E14.5,E14.5
+SRR1584573,KO,linc-Sox2_L43-9,linc-Sox2,Peril_RNA-seq_KO_E14.5,E14.5
+SRR1584574,KO,linc-Sox2_L43-9,linc-Sox2,Peril_RNA-seq_KO_E14.5,E14.5
+SRR1584575,KO,linc-Sox2_L43-10,linc-Sox2,Peril_RNA-seq_KO_E14.5,E14.5
+SRR1584576,KO,linc-Sox2_L43-10,linc-Sox2,Peril_RNA-seq_KO_E14.5,E14.5
